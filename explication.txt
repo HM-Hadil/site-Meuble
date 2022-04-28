@@ -1,0 +1,38 @@
+1) taw bch nchoufou kifeh naamlou array :tableu fyh les donnes taana w baad bch naamlou boule for bch yaqrah w  ala qad l nobmre taa l donnes l mawjoudin fi tableau : l compteur bch yaqrah w yhothom
+
+2)naamlou function w nhellouha 
+3)var collect_object=[
+        {
+        	"title":"decoration",
+        	"photo":"images(4).jpg"
+        },
+         {
+        	"title":"chair",
+        	"photo":"images(10).jpg"
+        },
+         {
+        	...:...
+        },
+         {
+        	.....:...
+        },
+         {
+        	....:...
+        }
+];
+
+4)baad naamlou var li hia bch tjy fi l body:
+let result_collection=document.getElementsByTagName('body')[0];
+5)naamlou var ekher ili howa div naamloulou creation :
+var div_collection=document.createElement('div');
+6)naatouh class name
+7)baad naamlou l for loop:
+   for(let i=0;i<collect_object.length;i++){}
+8)fi wost l for loop{}:
+nekhdhou l div li aamlnelou l creation w naamloulou kl aada innerHTML+=""
+w naamlou li hajetna fyh les div w les img w naatouhom classes  w nhottou fyhm les donnes llkolhom ykounou string "" mais ken les donne ykounou entre  deux "++"
+
+
+9)baad naaml l append taana 
+result_collection.append(div_collection);
+hne hattyna l div fy body

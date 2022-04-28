@@ -1,0 +1,69 @@
+ver :
+background: #11998e;  
+background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  
+background: linear-gradient(to right, #38ef7d, #11998e); 
+
+
+gris 
+background: #F7F8F8;  
+background: -webkit-linear-gradient(to right, #ACBB78, #F7F8F8);  
+background: linear-gradient(to right, #ACBB78, #F7F8F8); 
+
+white
+background: #ECE9E6; 
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+
+blue feteh
+background: #1D976C;  
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C); 
+background: linear-gradient(to right, #93F9B9, #1D976C); 
+
+orange 
+
+background: #F09819;  
+background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);  
+background: linear-gradient(to right, #EDDE5D, #F09819);
+
+
+blanc vert
+background: #F7F8F8;  
+background: -webkit-linear-gradient(to right, #ACBB78, #F7F8F8);  
+background: linear-gradient(to right, #ACBB78, #F7F8F8); 
+
+
+
+
+vert blue 
+background: #a8ff78;  
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  
+background: linear-gradient(to right, #78ffd6, #a8ff78); 
+
+
+
+
+roze blanc 
+background: #FFEFBA;  
+background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA); 
+background: linear-gradient(to right, #FFFFFF, #FFEFBA); 
+
+
+
+zin blac
+
+background: #ADA996; 
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+
+
+
+trkwoiz
+background: #0cebeb; 
+background: -webkit-linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);  
+background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); 
+
+
+violet 
+background: #A770EF; 
+background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF); 
+background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF); 
